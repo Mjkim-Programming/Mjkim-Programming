@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Mjkim-Programming
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Null
-- 📫 How to reach me Null
-- 😄 Pronouns: Null
-- ⚡ Fun fact: Null
 - 🎈 I'm currently working in IML Project
+- 📫 How to reach me mjkimprogramming@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm alive! And I'm a student!
 
 <!---
 Mjkim-Programming/Mjkim-Programming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
