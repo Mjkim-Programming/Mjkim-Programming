@@ -1,5 +1,7 @@
 ## 🐸GaeGul_Dev🐸
 
+사이트의 구조든, 프로그램이든 상상한 것을 현실로 만들어내고, 세상을 발전시키는 백엔드 프로그래머💻💻
+
 ### Stacks
 **Frontend:** 
 <img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
