@@ -1,6 +1,6 @@
 ## 🐸GaeGul_Dev🐸
 
-사이트의 구조든, 프로그램이든 상상한 것을 현실로 만들어내고, 세상을 발전시키는 백엔드 프로그래머💻💻
+사이트의 구조든, 프로그램이든 상상한 것을 현실로 만들어내고, 세상을 발전시키는 백엔드 프로그래머<br>
 
 ### Stacks
 **Frontend:** 
@@ -20,7 +20,7 @@
 **WordWise:** <a href="https://wordwise-project.github.io/">Click Here To Visit!</a> 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=GaegulDev)](https://solved.ac/GaegulDev/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeguldev)](https://solved.ac/gaeguldev/)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)
 ### Contact
  <a href="https://brainy-income-6c4.notion.site/Notion-5e21ed89270d4333bc96e05578069bcf"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a><br>
