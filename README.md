@@ -20,8 +20,7 @@
 **WordWise:** <a href="https://wordwise-project.github.io/">Click Here To Visit!</a> 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaegul_dev)](https://solved.ac/gaegul_dev)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=GaegulDev)](https://solved.ac/GaegulDev/)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)
 ### Contact
  <a href="https://brainy-income-6c4.notion.site/Notion-5e21ed89270d4333bc96e05578069bcf"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a><br>
