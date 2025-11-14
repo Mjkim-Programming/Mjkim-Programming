@@ -11,7 +11,7 @@ C++ / Python / JS&TS(React, Next.js, Vue) / Nest.js
 [**MoonharuBoard**](https://happy-birthday-moonharu.vercel.app)
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeguldev)](https://solved.ac/gaeguldev/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaegulx)](https://solved.ac/gaegulx/)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)
 ### Contact
 <a href="matilto:mjkimprogramming@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/> : mjkimprogramming@gmail.com
