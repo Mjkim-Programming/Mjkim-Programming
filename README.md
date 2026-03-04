@@ -5,13 +5,8 @@
 ### Stacks
 C++ / Python / JS&TS(React, Next.js, Vue) / Nest.js
 
-### My Projects
-[**IML**]("https://Mjkim-Programming.github.io/")<br>
-[**WordWise**]("https://wordwise-project.github.io/")<br>
-[**MoonharuBoard**](https://happy-birthday-moonharu.vercel.app)
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaegulx)](https://solved.ac/gaegulx/)<br>
+[![GaegulX's solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle={gaegulx})](https://github.com/kookjd7759/solvedac-readme-stats)br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjkim-Programming)](https://github.com/Mjkim-Programming/github-readme-stats)
 ### Contact
 <a href="matilto:mjkimprogramming@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/> : mjkimprogramming@gmail.com
